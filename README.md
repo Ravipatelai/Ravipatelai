@@ -20,7 +20,7 @@ I love building scalable and efficient web applications with modern technologies
 
 📫 **Connect with Me**
 - LinkedIn: [linkedin.com/in/Ravikantkumar](https://linkedin.com/in/ravikantkumarai)
-- GitHub: [github.com/Ravikantkumar](https://github.com/RaviPatel)
+- GitHub: [github.com/Ravikantkumar](https://github.com/Ravipatelai)
 - Email: rkpg6331@gmail.com
 
 ⭐ **Fun Fact:**  
