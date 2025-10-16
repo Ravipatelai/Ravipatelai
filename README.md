@@ -15,7 +15,7 @@ I love building scalable and efficient web applications with modern technologies
 | Project | Description | Tech Stack | Live / Repo |
 |----------|--------------|-------------|-------------|
 | **Ravi Chat App** | Private chatting app | React, Node.js, MongoDB | [Live](https://ravi-chat-fronted.vercel.app/) / [Repo](https://github.com/Ravipatelai/ravi_chat_fronted) |
-| **Sofiya** | assistent | HTML CSS JS | [Live](https://sofiya-talk-web.vercel.app/) [Repo](https://github.com/Ravipatelai/Sofiya-talk-web) |
+| **Sofiya** | assistent | HTML, CSS, JS | [Live](https://sofiya-talk-web.vercel.app/) [Repo](https://github.com/Ravipatelai/Sofiya-talk-web) |
 | **Lakshmi puja** | Chanda clocter | MERN Stack | [Live](https://lakshmipujafronted.vercel.app/) [Repo](https://github.com/Ravipatelai/lakshmipujafronted) |
 
 📫 **Connect with Me**
