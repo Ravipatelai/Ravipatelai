@@ -14,9 +14,9 @@ I love building scalable and efficient web applications with modern technologies
 🌟 **Projects**
 | Project | Description | Tech Stack | Live / Repo |
 |----------|--------------|-------------|-------------|
-| **Smart Expense Tracker** | AI Powered Expense Tracker App | React, Node.js, MongoDB | [Live](#) / [Repo](#) |
-| **Tak Batting** | Cricket Performance Tracker | React Native, Firebase | [Repo](#) |
-| **Food Delivery App** | Zmoto-like food ordering system | MERN Stack | [Repo](#) |
+| **Ravi Chat App** | A | React, Node.js, MongoDB | [Live](https://ravi-chat-fronted.vercel.app/) / [Repo](https://github.com/Ravipatelai/ravi_chat_fronted) |
+| **Sofiya** | assistent | HTML CSS JS | [Live](https://sofiya-talk-web.vercel.app/) [Repo](https://github.com/Ravipatelai/Sofiya-talk-web) |
+| **Lakshmi puja** | Chanda clocter | MERN Stack | [Live](https://lakshmipujafronted.vercel.app/) [Repo](https://github.com/Ravipatelai/lakshmipujafronted) |
 
 📫 **Connect with Me**
 - LinkedIn: [linkedin.com/in/Ravikantkumar](https://linkedin.com/in/ravikantkumarai)
