@@ -1,7 +1,7 @@
 # Hi there, I'm Ravikant kumar! 👋
 
 🚀 **About Me**
-I'm a passionate **Full Stack Web Developer & Computer Science Engineer (BE CSE)**.  
+I'm a passionate **Full Stack Web Developer & Computer Science Engineer (BE AI & ML)**.  
 I love building scalable and efficient web applications with modern technologies.
 
 💻 **Tech Stack**
