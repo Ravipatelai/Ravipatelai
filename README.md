@@ -19,8 +19,8 @@ I love building scalable and efficient web applications with modern technologies
 | **Food Delivery App** | Zmoto-like food ordering system | MERN Stack | [Repo](#) |
 
 📫 **Connect with Me**
-- LinkedIn: [linkedin.com/in/ravipatel]([https://linkedin.com/in/ravipatel](https://linkedin.com/in/ravipatel))
-- GitHub: [github.com/RaviPatel](https://github.com/RaviPatel)
+- LinkedIn: [linkedin.com/in/Ravikantkumar](https://linkedin.com/in/ravikantkumarai)
+- GitHub: [github.com/Ravikantkumar](https://github.com/RaviPatel)
 - Email: rkpg6331@gmail.com
 
 ⭐ **Fun Fact:**  
