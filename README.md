@@ -1,4 +1,4 @@
-# Hi there, I'm Ravi Patel! 👋
+# Hi there, I'm Ravikant kumar! 👋
 
 🚀 **About Me**
 I'm a passionate **Full Stack Web Developer & Computer Science Engineer (BE CSE)**.  
@@ -21,7 +21,7 @@ I love building scalable and efficient web applications with modern technologies
 📫 **Connect with Me**
 - LinkedIn: [linkedin.com/in/ravipatel](https://linkedin.com/in/ravipatel)
 - GitHub: [github.com/RaviPatel](https://github.com/RaviPatel)
-- Email: yourname@gmail.com
+- Email: rkpg6331@gmail.com
 
 ⭐ **Fun Fact:**  
 I love solving problems and creating digital products that make life easier!
