@@ -11,9 +11,9 @@ I’m passionate about building <b>scalable</b>, <b>efficient</b>, and <b>modern
 
 | 🖥️ Frontend | ⚙️ Backend | 🗄️ Database | 🛠️ Tools |
 |:-------------:|:-----------:|:-------------:|:----------:|
-| <b>React.js</b> | <b>Node.js</b> | <b>MongoDB</b> | <b>Git</b>, <b>VS Code</b> |
-| HTML, CSS, JS | Express.js | MySQL | Postman, Figma |
-| Tailwind CSS | Flask / Django | Firebase | Render, Vercel |
+| ⚛️ **React.js** | 🟢 **Node.js** | 🍃 **MongoDB** | 🧠 **Git**, 🧩 **VS Code** |
+| 🌐 **HTML**, 🎨 **CSS**, ⚡ **JavaScript** | 🚀 **Express.js** | 🐬 **MySQL** | 🔍 **Postman**, 🎨 **Figma** |
+| 💠 **Tailwind CSS** | 🐍 **Flask / Django** | 🔥 **Firebase** | 🌍 **Render**, 💫 **Vercel** |
 
 ---
 
@@ -21,9 +21,9 @@ I’m passionate about building <b>scalable</b>, <b>efficient</b>, and <b>modern
 
 | 🧩 Project | 📝 Description | ⚙️ Tech Stack | 🔗 Live / Repo |
 |:-----------|:---------------|:---------------|:----------------|
-| **Ravi Chat App** | Real-time private chat web app | React, Node.js, MongoDB | [🌐 Live](https://ravi-chat-fronted.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/ravi_chat_fronted) |
-| **Sofiya** | AI-based web assistant | HTML, CSS, JS | [🌐 Live](https://sofiya-talk-web.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/Sofiya-talk-web) |
-| **Lakshmi Puja** | Chanda (donation) collection web app | MERN Stack | [🌐 Live](https://lakshmipujafronted.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/lakshmipujafronted) |
+| 💬 **Ravi Chat App** | Real-time private chat web app | ⚛️ React, 🟢 Node.js, 🍃 MongoDB | [🌐 Live](https://ravi-chat-fronted.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/ravi_chat_fronted) |
+| 🤖 **Sofiya** | AI-based web assistant | 🌐 HTML, 🎨 CSS, ⚡ JavaScript | [🌐 Live](https://sofiya-talk-web.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/Sofiya-talk-web) |
+| 💰 **Lakshmi Puja** | Chanda (donation) collection web app | ⚛️ MERN Stack | [🌐 Live](https://lakshmipujafronted.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/lakshmipujafronted) |
 
 ---
 
