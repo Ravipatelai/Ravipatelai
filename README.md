@@ -1,27 +1,51 @@
-# Hi there, I'm Ravikant kumar! 👋
+<h1 align="center">👋 Hi there, I'm <span style="color:#00BFFF;">Ravikant Kumar</span>!</h1>
 
-🚀 **About Me**
-I'm a passionate **Full Stack Web Developer & Computer Science Engineer (BE AI & ML)**.  
-I love building scalable and efficient web applications with modern technologies.
+<p align="center">
+🚀 <b>Full Stack Web Developer</b> | 💻 <b>Computer Science Engineer (BE in AI & ML)</b><br>
+I’m passionate about building <b>scalable</b>, <b>efficient</b>, and <b>modern web applications</b>.
+</p>
 
-💻 **Tech Stack**
-| Frontend | Backend | Database | Tools |
-|-----------|----------|-----------|--------|
-| React.js | Node.js | MongoDB | Git, VS Code |
+---
+
+### 💻 **Tech Stack**
+
+| 🖥️ Frontend | ⚙️ Backend | 🗄️ Database | 🛠️ Tools |
+|:-------------:|:-----------:|:-------------:|:----------:|
+| <b>React.js</b> | <b>Node.js</b> | <b>MongoDB</b> | <b>Git</b>, <b>VS Code</b> |
 | HTML, CSS, JS | Express.js | MySQL | Postman, Figma |
-| Tailwind CSS | Flask/Django | Firebase | Render, Vercel |
+| Tailwind CSS | Flask / Django | Firebase | Render, Vercel |
 
-🌟 **Projects**
-| Project | Description | Tech Stack | Live / Repo |
-|----------|--------------|-------------|-------------|
-| **Ravi Chat App** | Private chatting app | React, Node.js, MongoDB | [Live](https://ravi-chat-fronted.vercel.app/) / [Repo](https://github.com/Ravipatelai/ravi_chat_fronted) |
-| **Sofiya** | assistent | HTML, CSS, JS | [Live](https://sofiya-talk-web.vercel.app/) / [Repo](https://github.com/Ravipatelai/Sofiya-talk-web) |
-| **Lakshmi puja** | Chanda clocter | MERN Stack | [Live](https://lakshmipujafronted.vercel.app/) / [Repo](https://github.com/Ravipatelai/lakshmipujafronted) |
+---
 
-📫 **Connect with Me**
-- LinkedIn: [linkedin.com/in/Ravikantkumar](https://linkedin.com/in/ravikantkumarai)
-- GitHub: [github.com/Ravikantkumar](https://github.com/Ravipatelai)
-- Email: rkpg6331@gmail.com
+### 🌟 **Projects Showcase**
 
-⭐ **Fun Fact:**  
-I love solving problems and creating digital products that make life easier!
+| 🧩 Project | 📝 Description | ⚙️ Tech Stack | 🔗 Live / Repo |
+|:-----------|:---------------|:---------------|:----------------|
+| **Ravi Chat App** | Real-time private chat web app | React, Node.js, MongoDB | [🌐 Live](https://ravi-chat-fronted.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/ravi_chat_fronted) |
+| **Sofiya** | AI-based web assistant | HTML, CSS, JS | [🌐 Live](https://sofiya-talk-web.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/Sofiya-talk-web) |
+| **Lakshmi Puja** | Chanda (donation) collection web app | MERN Stack | [🌐 Live](https://lakshmipujafronted.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/lakshmipujafronted) |
+
+---
+
+### 🤝 **Connect with Me**
+
+<p align="center">
+<a href="https://linkedin.com/in/ravikantkumarai" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Ravipatelai" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:rkpg6331@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### 🌈 **Fun Fact**
+> I love solving real-world problems and creating digital products that make life easier ✨
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*
