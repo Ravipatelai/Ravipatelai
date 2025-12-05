@@ -9,13 +9,11 @@ I’m passionate about building <b>scalable</b>, <b>efficient</b>, and <b>modern
 
 ### 💻 **Tech Stack**
 
-<div align="center">
-
-| 🖥️ **Frontend** | ⚙️ **Backend** | 🗄️ **Database** | 🛠️ **Tools** |
-|:---------------:|:--------------:|:----------------:|:------------:|
-| ⚛️ React.js <br> 🌐 HTML <br> 🎨 CSS <br> ⚡ JavaScript <br> 💠 Tailwind CSS | 🟢 Node.js <br> 🚀 Express.js <br> 🐍 Flask / Django | 🍃 MongoDB <br> 🐬 MySQL <br> 🔥 Firebase | 🧠 Git <br> 🧩 VS Code <br> 🔍 Postman <br> 🎨 Figma <br> 🌍 Render <br> 💫 Vercel |
-
-</div>
+| 🖥️ Frontend | ⚙️ Backend | 🗄️ Database | 🛠️ Tools |
+|:-------------:|:-----------:|:-------------:|:----------:|
+| ⚛️ **React.js** | 🟢 **Node.js** | 🍃 **MongoDB** | 🧠 **Git**, 🧩 **VS Code** |
+| 🌐 **HTML**, 🎨 **CSS**, ⚡ **JavaScript** | 🚀 **Express.js** | 🐬 **MySQL** | 🔍 **Postman**, 🎨 **Figma** |
+| 💠 **Tailwind CSS** | 🐍 **Flask / Django** | 🔥 **Firebase** | 🌍 **Render**, 💫 **Vercel** |
 
 ---
 
@@ -24,9 +22,9 @@ I’m passionate about building <b>scalable</b>, <b>efficient</b>, and <b>modern
 | 🧩 Project | 📝 Description | ⚙️ Tech Stack | 🔗 Live / Repo |
 |:-----------|:---------------|:---------------|:----------------|
 | 💰 **PortFoliyo** | A personal portfolio website showcasing my skills, projects, and developer journey. | 🌐 HTML, 🎨 CSS, ⚡ JavaScript | [🌐 Live](https://ravi-patelcom.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/portfoliyo) |
-| 💬 **Ravi Chat App** | Real-time private chat web app. | ⚛️ React, 🟢 Node.js, 🍃 MongoDB | [🌐 Live](https://ravi-chat-fronted.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/Ravi-chatting-app) |
-| 🤖 **Sofiya** | AI-based web assistant that responds to user queries. | 🌐 HTML, 🎨 CSS, ⚡ JavaScript | [🌐 Live](https://sofiya-talk-web.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/Sofiya-talk-web) |
-| 🙏 **Lakshmi Puja** | Chanda (donation) collection web app for events. | ⚛️ MERN Stack | [🌐 Live](https://lakshmipujafronted.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/lakshmipujafronted) |
+| 💬 **Ravi Chat App** | Real-time private chat web app | ⚛️ React, 🟢 Node.js, 🍃 MongoDB | [🌐 Live](https://ravi-chat-fronted.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/Ravi-chatting-app) |
+| 🤖 **Sofiya** | AI-based web assistant | 🌐 HTML, 🎨 CSS, ⚡ JavaScript | [🌐 Live](https://sofiya-talk-web.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/Sofiya-talk-web) |
+| 💰 **Lakshmi Puja** | Chanda (donation) collection web app | ⚛️ MERN Stack | [🌐 Live](https://lakshmipujafronted.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/lakshmipujafronted) |
 
 ---
 
@@ -51,4 +49,4 @@ I’m passionate about building <b>scalable</b>, <b>efficient</b>, and <b>modern
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*  
+⭐ *If you like my work, consider giving a star to my repositories!*  : tech stack ko center me do
