@@ -8,7 +8,7 @@ I’m passionate about building <b>scalable</b>, <b>efficient</b>, and <b>modern
 ---
 
 ### 💻 **Tech Stack**
-
+<div align="center">
 | 🖥️ Frontend | ⚙️ Backend | 🗄️ Database | 🛠️ Tools |
 |:-------------:|:-----------:|:-------------:|:----------:|
 | ⚛️ **React.js** | 🟢 **Node.js** | 🍃 **MongoDB** | 🧠 **Git**, 🧩 **VS Code** |
@@ -16,7 +16,7 @@ I’m passionate about building <b>scalable</b>, <b>efficient</b>, and <b>modern
 | 💠 **Tailwind CSS** | 🐍 **Flask / Django** | 🔥 **Firebase** | 🌍 **Render**, 💫 **Vercel** |
 
 ---
-
+</div>
 ### 🌟 **Projects Showcase**
 
 | 🧩 Project | 📝 Description | ⚙️ Tech Stack | 🔗 Live / Repo |
