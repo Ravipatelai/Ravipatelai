@@ -24,6 +24,8 @@ I’m passionate about building <b>scalable</b>, <b>efficient</b>, and <b>modern
 | 💬 **Ravi Chat App** | Real-time private chat web app | ⚛️ React, 🟢 Node.js, 🍃 MongoDB | [🌐 Live](https://ravi-chat-fronted.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/Ravi-chatting-app) |
 | 🤖 **Sofiya** | AI-based web assistant | 🌐 HTML, 🎨 CSS, ⚡ JavaScript | [🌐 Live](https://sofiya-talk-web.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/Sofiya-talk-web) |
 | 💰 **Lakshmi Puja** | Chanda (donation) collection web app | ⚛️ MERN Stack | [🌐 Live](https://lakshmipujafronted.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/lakshmipuja) |
+| 📱 **Meho Clone** |Social media mobile app UI & basic features clone | 🌐 HTML • 🎨 CSS • ⚙️ JavaScript| [🌐 Live](https://meesho-clone-eosin-zeta.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/lakshmipuja) |
+| 🌦️ Weather App | Realtime weather checking web app with API integration | ⚛️ React JS | [🌐 Live](https://weatherravi.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/Weather) |
 
 ---
 
