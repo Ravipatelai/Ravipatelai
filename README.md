@@ -22,7 +22,7 @@ I’m passionate about building <b>scalable</b>, <b>efficient</b>, and <b>modern
 | 🧩 Project | 📝 Description | ⚙️ Tech Stack | 🔗 Live / Repo |
 |:-----------|:---------------|:---------------|:----------------|
 | 📊 **Smart Expense Tracker** |Built a full-stack expense management web app | ⚛️ React,🚀 Express.js, 🟢 Node.js, 🍃 MongoDB | [📁 Repo](https://github.com/Ravipatelai/Smart-Expense-Tracker) |
-| 📝 **Task Management ** |Built a full-stack (curd)  | ⚛️ React, 🚀Express.js, 🟢 Node.js, 🍃 MongoDB |  [🌐 Live](https://task-management-njex.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/Task-Management) |
+| 📝 **Task Management** |Built a full-stack (curd)  | ⚛️ React, 🚀Express.js, 🟢 Node.js, 🍃 MongoDB |  [🌐 Live](https://task-management-njex.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/Task-Management) |
 | 💬 **Ravi Chat App** | Real-time private chat web app | ⚛️ React, 🟢 Node.js, 🍃 MongoDB |[🌐 Live](https://ravi-chat-fronted.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/Ravi-chatting-app) |
 | 🤖 **Sofiya** | AI-based web assistant | 🌐 HTML, 🎨 CSS, ⚡ JavaScript | [🌐 Live](https://sofiya-talk-web.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/Sofiya-talk-web) |
 | 💰 **Lakshmi Puja** | Chanda (donation) collection web app | ⚛️ MERN Stack | [🌐 Live](https://lakshmipujafronted.vercel.app/) / [📁 Repo](https://github.com/Ravipatelai/lakshmipuja) |
