@@ -69,17 +69,6 @@ id="xk6ptz"
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ravipatelai&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravipatelai&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
