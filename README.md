@@ -1,109 +1,131 @@
+```md
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d; padding: 20px; width: 550px;">
-    <tr>
-      <td>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00BFFF&background=00000000&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Ravikant+Kumar;" alt="Typing Effect" />
-      </td>
-    </tr>
-  </table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ravikant%20Kumar&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=00BFFF&animation=fadeIn&fontSize=45&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI%20Enthusiast&descAlignY=65" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=700&lines=Hi+there!+👋;I'm+Ravikant+Kumar;Full+Stack+Web+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications+🚀" />
+
 </div>
 
-<h3 align="center">
-  🚀 Full Stack Web Developer | 💻 Computer Science Engineer (BE in AI & ML)
-</h3>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Scalable%20%26%20Efficient%20Web%20Apps-orange?style=for-the-badge&logo=rocket" alt="Focus Badge"/>
+# 💫 About Me
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+### 👨‍💻 Full Stack Web Developer  
+### 🎓 BE in Artificial Intelligence & Machine Learning  
+### 🚀 Passionate about scalable & modern web applications  
+### 🌱 Currently improving MERN Stack & AI skills  
+### ⚡ Love building real-world digital products
+
+<br><br>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" />
 </p>
 
-<p align="center">
-  Passionate about building scalable, efficient, and modern web applications ✨
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 </p>
 
----
+### 🤖 AI & Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,flask" />
+</p>
 
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,figma" /> |
-| **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" /> |
-| **AI & Programming** | <img src="https://skillicons.dev/icons?i=python,django,flask" /> |
-| **Tools & Hosting** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" /> |
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
+</p>
 
 </div>
 
 ---
 
-## 🌟 Projects Showcase
+# 🚀 Featured Projects
 
 <div align="center">
 
-| 🧩 Project | 📝 Description | ⚙️ Tech Stack | 🔗 Live / Repo |
-|:--|:--|:--|:--|
-| 📊 **Smart Expense Tracker** | Full-stack expense management web app | `React` `Express.js` `Node.js` `MongoDB` | [📁 Repo](https://github.com/Ravipatelai/Smart-Expense-Tracker) |
-| 📝 **Task Management** | Full-stack CRUD task management app | `React` `Express.js` `Node.js` `MongoDB` | [🌐 Live](https://task-management-njex.vercel.app/) • [📁 Repo](https://github.com/Ravipatelai/Task-Management) |
-| 💬 **Ravi Chat App** | Real-time private chat application | `React` `Node.js` `MongoDB` | [🌐 Live](https://ravi-chat-fronted.vercel.app/) • [📁 Repo](https://github.com/Ravipatelai/Ravi-chatting-app) |
-| 🤖 **Sofiya AI** | AI-powered web assistant | `HTML` `CSS` `JavaScript` | [🌐 Live](https://sofiya-talk-web.vercel.app/) • [📁 Repo](https://github.com/Ravipatelai/Sofiya-talk-web) |
-| 🌦️ **Weather App** | Real-time weather app with API integration | `React.js` | [🌐 Live](https://weatherravi.vercel.app/) • [📁 Repo](https://github.com/Ravipatelai/Weather) |
+| 💼 Project | 🚀 Features | 🛠️ Tech |
+|:---|:---|:---|
+| [📊 Smart Expense Tracker](https://github.com/Ravipatelai/Smart-Expense-Tracker) | Expense management & analytics | React, Node.js, MongoDB |
+| [📝 Task Management](https://github.com/Ravipatelai/Task-Management) | Full CRUD task manager | MERN Stack |
+| [💬 Ravi Chat App](https://github.com/Ravipatelai/Ravi-chatting-app) | Real-time chatting app | React, Socket.io |
+| [🤖 Sofiya AI](https://github.com/Ravipatelai/Sofiya-talk-web) | AI-powered assistant | JavaScript |
+| [🌦️ Weather App](https://github.com/Ravipatelai/Weather) | Real-time weather updates | React.js |
 
 </div>
 
 ---
 
-## 📊 Developer Metrics
+# 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="175" src="https://github-readme-stats.vercel.app/api?username=Ravipatelai&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&animate=true" />
-      </td>
-      <td>
-        <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravipatelai&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
-      </td>
-    </tr>
-  </table>
-</div>
 
-### 🔥 Streak Status
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ravipatelai&theme=tokyonight&hide_border=true&border_radius=15" />
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ravipatelai&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-### 🌈 Animated Contribution History
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravipatelai&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravipatelai&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
 </div>
 
 ---
 
-## 🌐 Let's Connect
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ravipatelai&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravipatelai&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://linkedin.com/in/ravikantkumarai" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://github.com/Ravipatelai" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="mailto:rkpg6331@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
+# ✨ Developer Quote
+
 <div align="center">
 
-### 💡 Fun Fact
-✨ I love solving real-world problems and creating digital products that make life easier ✨
+### 💡 *"Code. Create. Innovate. Repeat."*
 
-**⭐ If you like my work, consider starring my repositories! ⭐**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=80&section=footer" width="100%"/>
 </div>
+```
