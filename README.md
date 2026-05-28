@@ -1,6 +1,12 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Ravikant+Kumar;" alt="Typing Effect" />
-</p>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d; padding: 20px; width: 550px;">
+    <tr>
+      <td>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00BFFF&background=00000000&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Ravikant+Kumar;" alt="Typing Effect" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h3 align="center">
   🚀 Full Stack Web Developer | 💻 Computer Science Engineer (BE in AI & ML)
