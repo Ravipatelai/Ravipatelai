@@ -51,19 +51,21 @@
 
 ---
 
-# 🚀 Featured Projects
+id="xk6ptz"
+# 🌟 Projects Showcase
 
 <div align="center">
 
-| 💼 Project | 🚀 Features | 🛠️ Tech |
-|:---|:---|:---|
-| [📊 Smart Expense Tracker](https://github.com/Ravipatelai/Smart-Expense-Tracker) | Expense management & analytics | React, Node.js, MongoDB |
-| [📝 Task Management](https://github.com/Ravipatelai/Task-Management) | Full CRUD task manager | MERN Stack |
-| [💬 Ravi Chat App](https://github.com/Ravipatelai/Ravi-chatting-app) | Real-time chatting app | React, Socket.io |
-| [🤖 Sofiya AI](https://github.com/Ravipatelai/Sofiya-talk-web) | AI-powered assistant | JavaScript |
-| [🌦️ Weather App](https://github.com/Ravipatelai/Weather) | Real-time weather updates | React.js |
+| 🧩 Project | 📝 Description | ⚙️ Tech Stack | 🔗 Live / Repository |
+|:---|:---|:---|:---|
+| 🚀 **Smart Expense Tracker** | Modern full-stack expense management & analytics platform with responsive dashboard UI. | `React` `Express.js` `Node.js` `MongoDB` | <a href="https://github.com/Ravipatelai/Smart-Expense-Tracker"><img src="https://img.shields.io/badge/📁%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a> |
+| 📝 **Task Management App** | Powerful CRUD task management application with clean UI and task organization features. | `React` `Express.js` `Node.js` `MongoDB` | <a href="https://task-management-njex.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a><br/><br/><a href="https://github.com/Ravipatelai/Task-Management"><img src="https://img.shields.io/badge/📁%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a> |
+| 💬 **Ravi Chat App** | Real-time private messaging application with smooth and modern chatting experience. | `React` `Node.js` `MongoDB` `Socket.io` | <a href="https://ravi-chat-fronted.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a><br/><br/><a href="https://github.com/Ravipatelai/Ravi-chatting-app"><img src="https://img.shields.io/badge/📁%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a> |
+| 🤖 **Sofiya AI** | AI-powered smart web assistant designed with interactive and responsive interface. | `HTML` `CSS` `JavaScript` | <a href="https://sofiya-talk-web.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a><br/><br/><a href="https://github.com/Ravipatelai/Sofiya-talk-web"><img src="https://img.shields.io/badge/📁%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a> |
+| 🌦️ **Weather App** | Real-time weather forecasting app with API integration and clean responsive design. | `React.js` `Weather API` | <a href="https://weatherravi.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a><br/><br/><a href="https://github.com/Ravipatelai/Weather"><img src="https://img.shields.io/badge/📁%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a> |
 
 </div>
+
 
 ---
 
