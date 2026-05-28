@@ -1,6 +1,6 @@
-<h1 align="center">
-![Typing Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00BFFF&center=false&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Ravikant+Kumar;)
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Ravikant+Kumar;" alt="Typing Effect" />
+</p>
 
 <h3 align="center">
   🚀 Full Stack Web Developer | 💻 Computer Science Engineer (BE in AI & ML)
