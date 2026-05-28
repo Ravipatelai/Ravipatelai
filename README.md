@@ -51,7 +51,6 @@
 
 ---
 
-id="xk6ptz"
 # 🌟 Projects Showcase
 
 <div align="center">
